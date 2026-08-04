@@ -5,6 +5,9 @@ _site/
 # Ignore the directory for local files during development
 local/
 
+# Ignore the scraped source of the old NLPR homepage (reference only)
+old_page/
+
 # Ignore the Gemfile that is generated
 Gemfile.lock
 
